@@ -6,5 +6,4 @@ SwiftPokedex is a simple Pokedex app in Swift that implements the [PokeAPI](http
 The App downloads an array of Pokemon and displays them in a grid. The most dominant color of the Pokemon sprite is detected and shown in the UI. 
 It also recognizes long press and displays pokemon picture from their back.
 
-
-<img src="https://github.com/Hepsiburada-mobil-iOS-Bootcamp/HW4_TubaYildiz/blob/main/ScreenShot/MainView.png" width="250" height="480">
+<img src="https://github.com/Hepsiburada-mobil-iOS-Bootcamp/HW4_TubaYildiz/blob/main/ScreenShot/mainView.gif" width="250" height="480">
